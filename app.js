@@ -33,3 +33,5 @@ connection.connect(function (err) {
 //praticando git
 
 //fazendo commits
+
+//testando reset
